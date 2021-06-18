@@ -1,6 +1,6 @@
 # Horiseon Marketing Agency
 
-https://snowden421.github.io
+https://snowden421.github.io/horiseon
 
 https://github.com/snowden421/horiseon.git
 
