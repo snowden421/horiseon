@@ -1,8 +1,8 @@
 # Horiseon Marketing Agency
 
-<link="./horiseon/Develop/index.html" />
+https://github.com/snowden421/horiseon/blob/9fe81ad651bfbd252373e9e532b035c81c3ece88/Develop/index.html
 
-Show img of strategy meeting
+https://github.com/snowden421/horiseon.git
 
 # Horiseon is a Marketing Agency with 3 Keys to Success:
 
@@ -31,3 +31,5 @@ Show img of strategy meeting
 ### -How does that benefit you?
 #### As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
 
+### Made with ❤️️ by Horiseon
+#### &copy; 2019 Horiseon Social Solution Services, Inc.
