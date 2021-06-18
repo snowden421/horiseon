@@ -1,6 +1,6 @@
 # Horiseon Marketing Agency
 
-<link rel="stylesheet" href="./assets/css/style.css" />
+<link="./horiseon/Develop/index.html" />
 
 Show img of strategy meeting
 
