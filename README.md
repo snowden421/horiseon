@@ -1,7 +1,5 @@
 # Horiseon Marketing Agency
 
-https://github.com/snowden421/horiseon/blob/9fe81ad651bfbd252373e9e532b035c81c3ece88/Develop/index.html
-
 https://github.com/snowden421/horiseon.git
 
 # Horiseon is a Marketing Agency with 3 Keys to Success:
