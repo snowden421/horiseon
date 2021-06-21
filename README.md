@@ -1,5 +1,7 @@
 # Horiseon Marketing Agency
 
+![app image](./assets/images/img.PNG)
+
 https://snowden421.github.io/horiseon
 
 https://github.com/snowden421/horiseon.git
@@ -31,5 +33,9 @@ https://github.com/snowden421/horiseon.git
 ### -How does that benefit you?
 #### As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
 
-### Made with ❤️️ by Horiseon
+## Created using:
+### HTML
+### CSS
+
+### Made with ❤️️ by Horiseon and Daniel Snowden
 #### &copy; 2019 Horiseon Social Solution Services, Inc.
